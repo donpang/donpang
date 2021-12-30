@@ -17,5 +17,3 @@
 ## [](https://github.com/tylerfyu#contact-me)Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-ismamudrik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ismamudrik@gmail.com)](mailto:ismamudrik@gmail.com)
-
-[![Outlook Badge](https://img.shields.io/badge/-ismamudrik@outlook.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:ismamudrik@outlook.com)](mailto:ismamudrik@outlook.com)
